@@ -1,2 +1,2 @@
 #!/bin/bash
-chmond +x switchuser.sh
+su betty
